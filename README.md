@@ -1,0 +1,2 @@
+# HOP-RAL-Replay-Free-Analytic-Learning-for-Class-Incremental-Node-Classification-on-Graphs
+HOP-RAL is a replay-free framework for class-incremental node classification on graphs that avoids storing past training data and gradient-based learning. It uses a fixed graph encoder with hop-based propagation and an analytically updated ridge classifier, achieving strong performance across CoraFull, Amazon Computers, and Roman-empire datasets.
